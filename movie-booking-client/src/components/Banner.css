@@ -1,0 +1,73 @@
+.footer-banner {
+  background-color: #f8f8f8;
+  padding: 40px 60px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  border-top: 2px solid #e0e0e0;
+}
+
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 40px;
+  margin-bottom: 30px;
+}
+
+.footer-section {
+  flex: 1 1 200px;
+  min-width: 200px;
+}
+
+.footer-section h4 {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  color: #c41e3a;
+}
+
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-section li {
+  margin-bottom: 10px;
+  transition: color 0.3s ease;
+  cursor: pointer;
+}
+
+.footer-section li:hover {
+  color: #c41e3a;
+}
+
+.social-icons {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.social-icons img {
+  width: 28px;
+  height: 28px;
+  margin-right: 10px;
+  transition: transform 0.3s ease;
+}
+
+.social-icons img:hover {
+  transform: scale(1.1);
+}
+
+.gov-badge {
+  margin-top: 20px;
+  width: 130px;
+}
+
+.footer-bottom {
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+  font-size: 13px;
+  color: #555;
+  line-height: 1.6;
+}
