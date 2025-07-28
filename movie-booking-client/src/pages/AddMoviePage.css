@@ -1,0 +1,39 @@
+.add-movie-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.add-movie-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.add-movie-container input,
+.add-movie-container textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+.add-movie-container button {
+  width: 150px; /* 👈 thu nhỏ lại */
+  padding: 10px;
+  background-color: #d32f2f;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  display: block;         /* 👈 để margin auto hoạt động */
+  margin: 0 auto 20px;    /* 👈 canh giữa và tạo khoảng cách dưới */
+}
+
+.add-movie-container button:hover {
+  background-color: #b71c1c;
+}
+
