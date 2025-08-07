@@ -12,7 +12,6 @@ Hệ thống bán vé xem phim trực tuyến, cho phép người dùng đăng k
 - [Cài đặt & Chạy dự án](#cài-đặt--chạy-dự-án)
 - [Cấu trúc thư mục](#cấu-trúc-thư-mục)
 - [Thành viên nhóm](#thành-viên-nhóm)
-- [Liên kết liên quan](#liên-kết-liên-quan)
 
 ---
 
@@ -33,7 +32,6 @@ Hệ thống bán vé xem phim trực tuyến, cho phép người dùng đăng k
 ### 🛠️ Quản trị viên
 - Thêm, sửa, xoá phim
 - Tạo và quản lý suất chiếu
-- Quản lý người dùng và đơn đặt vé
 
 ---
 
@@ -41,9 +39,9 @@ Hệ thống bán vé xem phim trực tuyến, cho phép người dùng đăng k
 
 | Thành phần | Công nghệ |
 |------------|-----------|
-| Frontend   | HTML, CSS, JavaScript (hoặc ReactJS) |
+| Frontend   | ReactJS |
 | Backend    | Node.js + Express |
-| Database   | MongoDB (hoặc MySQL/PostgreSQL) |
+| Database   |  MySQL |
 | Thiết kế UI | Figma |
 | Quản lý dự án | Jira |
 | Quản lý mã nguồn | GitHub |
