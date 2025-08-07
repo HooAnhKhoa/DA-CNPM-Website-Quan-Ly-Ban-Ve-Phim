@@ -25,7 +25,7 @@ Hệ thống bán vé xem phim trực tuyến, cho phép người dùng đăng k
 
 ### 👤 Người dùng
 - Đăng ký, đăng nhập, quên mật khẩu
-- Xem danh sách phim và chi tiết
+- Xem danh sách phim và chi tiết phim
 - Chọn suất chiếu, ghế ngồi và đặt vé
 - Xem lại thông tin vé đã đặt
 
