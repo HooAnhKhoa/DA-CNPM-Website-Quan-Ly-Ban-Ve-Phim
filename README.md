@@ -1,6 +1,6 @@
 # 🎬 Cinema Ticket System
 
-Hệ thống bán vé xem phim trực tuyến, cho phép người dùng đăng ký, đăng nhập, chọn phim, đặt vé, và quản lý thông tin vé. Admin có thể quản lý phim, suất chiếu và người dùng.
+Hệ thống bán vé xem phim trực tuyến, cho phép người dùng đăng ký, đăng nhập, chọn phim, đặt vé, và quản lý thông tin vé. Admin có thể quản lý phim, suất chiếu.
 
 ---
 
