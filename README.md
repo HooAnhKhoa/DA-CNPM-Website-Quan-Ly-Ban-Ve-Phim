@@ -54,21 +54,19 @@ Hệ thống bán vé xem phim trực tuyến, cho phép người dùng đăng k
 
 ### 📁 Clone repo
 ```bash
-git clone https://github.com/<your-username>/cinema-ticket-system.git
+git clone https://github.com/HooAnhKhoa/DA-CNPM-Website-Quan-Ly-Ban-Ve-Phim.git
 ```
 
 ### 🚀 Chạy frontend
 ```bash
-cd frontend
-npm install
-npm run dev
+cd movie-booking-client
+npm start
 ```
 
 ### 🧩 Chạy backend
 ```bash
-cd backend
-npm install
-npm run start
+cd movie-booking-api
+node app.js
 ```
 
 💡 **Cập nhật file `.env`** với thông tin kết nối DB, cổng chạy server, v.v.
@@ -79,9 +77,10 @@ npm run start
 
 ```
 cinema-ticket-system/
-├── frontend/          # Giao diện người dùng
-├── backend/           # API & xử lý logic
-├── docs/              # Tài liệu đồ án
+├── movie-booking-api/          # API & xử lý logic
+├── movie-booking-client/       # Giao diện người dùng
+├── BC_CNPM_QLVXP.doc
+├── Slide_BC_CNPM_QLVXP.pptx            
 └── README.md
 ```
 
@@ -96,12 +95,6 @@ cinema-ticket-system/
 | Hồ Anh Khoa  |
 
 ---
-
-## 🔗 Liên kết liên quan
-
-- 🎯 **Jira Project:** [Link Jira](https://...)
-- 🎨 **Figma:** [Link Figma](https://...)
-- 💻 **Demo (nếu có):** [Link Deploy](https://...)
 
 ---
 
